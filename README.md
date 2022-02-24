@@ -24,4 +24,4 @@ A list of IoT-based smart home securtiy and safety top conference and journal pa
 + (Interaction discovery), ICPADS,	2019,	[Multi-platform Application Interaction Extraction for IoT Devices](https://ieeexplore.ieee.org/abstract/document/8975726),	"IOTIE"	
 + (Event verification), CCS, 2019, [Physical Event Verification in Smart Homes](https://beerkay.github.io/cs590S20/content/papers/birnbach.pdf), "PEEVES"
 + (Scenario generation), S&P, 2020,	[Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses](https://ieeexplore.ieee.org/abstract/document/9152773), "Helion"
-* (Simulation) ESORICS 2021, [TAESim: A Testbed for IoT Security Analysis of Trigger-Action Environment](https://link.springer.com/chapter/10.1007/978-3-030-95484-0_14), "TAESim"
+* (Simulation), ESORICS 2021, [TAESim: A Testbed for IoT Security Analysis of Trigger-Action Environment](https://link.springer.com/chapter/10.1007/978-3-030-95484-0_14), "TAESim"
